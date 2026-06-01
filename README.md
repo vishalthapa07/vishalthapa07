@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 For more details visit my [portfolio](https://vishalthapa.netlify.app/)
+- 👨‍💻 For more details visit my [portfolio](https://vishal-thapa.netlify.app/)
 
 - 📫 How to reach me **thapavishal48@gmail.com**
 
